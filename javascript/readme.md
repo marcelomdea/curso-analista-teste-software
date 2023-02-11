@@ -1,4 +1,4 @@
-## Comando para a execução do scrip
+## Comando para a execução do script
 
 ```
 node .\atividade1.js
